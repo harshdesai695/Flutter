@@ -1,6 +1,12 @@
-# mynews
+# MyNews
 
-A new Flutter project.
+In this project I am fetching News data form Api Called NewsApi And Presenting Data With Nice UI
+
+#Api Key
+ 
+Get Your Api Key From https://newsapi.org/ And Paste the Key in Api_service.dart file and You are good to go 
+
+A  Flutter project.
 
 ## Getting Started
 
