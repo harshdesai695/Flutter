@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905993266500",
+    "project_id": "etracker-2acea",
+    "storage_bucket": "etracker-2acea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905993266500:android:488e0713948db8075ea311",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905993266500-slruvbidug0lsh8i9fltkj7vrh5gf6fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_tracker",
+            "certificate_hash": "5854c5483def419f435290e4881167d12c05c1f4"
+          }
+        },
+        {
+          "client_id": "905993266500-5nqkhnfclu141l2mquirk70lpkk48b9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriPv584WgJxF9eN-00g0Fztccxkfo-Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905993266500-5nqkhnfclu141l2mquirk70lpkk48b9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
